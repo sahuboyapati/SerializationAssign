@@ -1,0 +1,14 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\bin\Debug\net8.0\ConAssignment.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\bin\Debug\net8.0\ConAssignment.deps.json
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\bin\Debug\net8.0\ConAssignment.runtimeconfig.json
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\bin\Debug\net8.0\ConAssignment.dll
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\bin\Debug\net8.0\ConAssignment.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ConAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ConAssignment.AssemblyInfoInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ConAssignment.AssemblyInfo.cs
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ConAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ConAssignment.dll
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\refint\ConAssignment.dll
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ConAssignment.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ConAssignment.genruntimeconfig.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day21\ConAssignment\ConAssignment\obj\Debug\net8.0\ref\ConAssignment.dll
